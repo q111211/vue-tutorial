@@ -14,8 +14,8 @@
 - [路由](https://github.com/Wscats/vue-tutorial/tree/gh-pages/vue-erp/VueBasic/Router)
 - [Vuex](https://github.com/Wscats/vue-tutorial/issues/12)
 - 其他
-- [Vue1.X文档](https://github.com/Wscats/vue-tutorial/blob/gh-pages/tutorial/Vue.md)
-- [Vue代码示例](https://github.com/Wscats/vue-tutorial/blob/gh-pages/tutorial/DEMO.md)
+- [Vue1.X文档](https://github.com/q111211/vue-tutorial/blob/gh-pages/tutorial/Vue.md)
+- [Vue代码示例](https://github.com/q111211/vue-tutorial/blob/gh-pages/tutorial/DEMO.md)
 
 
 
